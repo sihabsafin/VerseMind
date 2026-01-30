@@ -1,0 +1,5 @@
+gradio>=6.0
+langchain-core
+langchain-community
+langchain-groq
+langsmith
